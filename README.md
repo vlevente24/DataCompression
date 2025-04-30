@@ -22,3 +22,7 @@ Run the program after compilation from the command line:
 where the first and only (`inputfile`) parameter is the name of the file to be compressed. The command should be run from the same directory as the input file.
 
 The program automatically creates the compressed (`enc_inputfile`) and decompressed (`dec_inputfile`) files in the same directory.
+
+## Test data
+
+All my used test data is in `files` directory.
